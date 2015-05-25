@@ -5,7 +5,7 @@
 ## if the interface is given (wlan0, eth0, ect.)
 ## 
 ## You may modify, reuse and distribute the code freely as long as it is referenced back ##
-## to the author using the following line: ..based on gLuhn.py by @drgfragkos            ##
+## to the author using the following line: ..based on iip.sh by @drgfragkos            ##
 ##
 ## Usage: ./iip.sh [Interface] 
 ##    [Interface]     Optional parameter. e.g. [wlan|eth0|eth1|...]
